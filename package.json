@@ -20,6 +20,6 @@
     "fastify": "^2.14.1"
   },
   "dependencies": {
-    "convict": "^6.0.0"
+    "convict": "^6.2.2"
   }
 }
